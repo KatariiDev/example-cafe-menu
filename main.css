@@ -8,6 +8,8 @@ body {
     border: 1px grey solid;
     display: inline-block;
     padding: 0 10px;
+    box-shadow: 1px 1px 15px grey;
+
 }
 
 .st {
