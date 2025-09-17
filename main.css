@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    border: 1px grey solid;
+    display: inline-block;
+    padding: 0 10px;
+}
+
+.st {
+    border-right: 1px grey solid;
+    padding: 0 5px 0 0;
+}
