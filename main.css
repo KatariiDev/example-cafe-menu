@@ -4,15 +4,23 @@ body {
     align-items: center;
 }
 
+.tittle {
+    margin: 0;
+    margin-bottom: 17px;
+}
+
 .container{
     border: 1px grey solid;
     display: inline-block;
     padding: 0 10px;
     box-shadow: 1px 1px 15px grey;
-
 }
 
 .st {
     border-right: 1px grey solid;
     padding: 0 5px 0 0;
+}
+
+.tittle_n {
+    margin: 15px 0;
 }
