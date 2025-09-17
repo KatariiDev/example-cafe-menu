@@ -1,20 +1,6 @@
-body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding-top: 20px;
-}
-
 .tittle {
     margin: 0;
     margin-bottom: 17px;
-}
-
-.container{
-    border: 1px grey solid;
-    display: inline-block;
-    padding: 0 10px;
-    box-shadow: 1px 1px 15px grey;
 }
 
 .st {
